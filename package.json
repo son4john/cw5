@@ -1,0 +1,14 @@
+{
+  "name": "cw5",
+  "version": "1.0.0",
+  "description": "connect and edit emp_db",
+  "main": "cw5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Group MIS6383 7",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.2.2"
+  }
+}
